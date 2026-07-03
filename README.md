@@ -1,6 +1,7 @@
 # Excel Salary Dashboard
 
 ![SalaryScope-Excel-Dashboard.png](0_Resources/Images/1_Salary_Final_Dashboard.gif)
+![Image](https://raw.githubusercontent.com/TejasviAaryan/TejasviAaryan-SalaryScope-Excel-Dashboard/main/0_Resources/Images/1_Salary_Final_Dashboard.gif)
 
 ## Introduction
 
