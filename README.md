@@ -1,6 +1,6 @@
 # Excel Salary Dashboard
 
-![SalaryScope-Excel-Dashboard.png](/0_Resources/Images/1_Salary_Final_Dashboard.gif)
+![SalaryScope-Excel-Dashboard.png](0_Resources/Images/1_Salary_Final_Dashboard.gif)
 
 ## Introduction
 
@@ -34,7 +34,7 @@ The dataset used for this project contains real-world data science job informati
 
 #### 📊 Data Science Job Salaries - Bar Chart
 
-<img src="/0_Resources/Images/1_Salary_Dashboard_Chart1.png" width="850" height="550" alt="SalaryScope-Excel-Dashboard">
+<img src="0_Resources/Images/1_Salary_Dashboard_Chart1.png" width="850" height="550" alt="SalaryScope-Excel-Dashboard">
 
 - 🛠️ **Excel Features:** Utilized bar chart feature (with formatted salary values) and optimized layout for clarity.
 - 🎨 **Design Choice:** Horizontal bar chart for visual comparison of median salaries.
