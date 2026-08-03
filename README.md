@@ -1,6 +1,6 @@
 # Excel Salary Dashboard
 
-![SalaryScope-Excel-Dashboard.png]image/1_Salary_Dashboard_Chart1.png
+![SalaryScope-Excel-Dashboard.png](image/1_Salary_Dashboard_Country_Map.gif)
 ## Introduction
 
 This data jobs salary dashboard was created to help job seekers investigate salaries for their desired jobs and ensure they are being adequately compensated. 
